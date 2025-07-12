@@ -1,0 +1,5 @@
+config {
+  max_tokens = 1000
+  feedback_length = 500
+  enable_natural_language = true
+}
